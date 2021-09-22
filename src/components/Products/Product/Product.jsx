@@ -26,7 +26,7 @@ const Product = ({product}) => {
                 </IconButton>
             </CardActions>
         </Card>
-    )
-}
+    );
+};
 
-export default Product
+export default Product;

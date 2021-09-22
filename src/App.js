@@ -15,14 +15,12 @@ const App = () => {
         fetchProducts();
     }, []);
 
-    console.log(products);
-
     return (
         <div>
             <Navbar />
-            <Products/>
+            <Products products={products}/>
         </div>
     )
 }
 
-export default App
+export default App;
