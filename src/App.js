@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 const App = () => {
     const [products, setProducts] = useState([]);
-    const[cart, setCart] = useState({});
+    const [cart, setCart] = useState({});
 
     const fetchProducts = async () => {
         const { data } = await commerce.products.list();
