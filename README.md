@@ -3,10 +3,10 @@
 
 ## What you built? 
 
-We built a web page for e-commerce using React Native.
+We built a web page for e-commerce using React Native. We were granted an extension due to sickness.
 
 Include some screenshots.
-![](./Screen Shot 2021-09-24 at 4.40.13 PM.png)
+![](store.png)
 
 ## Who Did What?
 
