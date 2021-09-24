@@ -6,7 +6,7 @@
 We built a web page for e-commerce using React Native.
 
 Include some screenshots.
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+![](./Screen Shot 2021-09-24 at 4.40.13 PM.png)
 
 ## Who Did What?
 
